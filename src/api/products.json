@@ -1,0 +1,80 @@
+[
+  {"id": 1, 
+      "name": "WordPress Complete", 
+      "img": "https://appdeveloperweb.com/greenstop/images/876661122392077_2.jpg", 
+      "description": "Learn how to build a beautiful and rich web apps all on your own.", 
+      "price": 14, 
+      "inventory": 2
+},
+  {"id": 2, 
+      "name": "Protocols for Secure Electronics Commerce", 
+      "img": "https://appdeveloperweb.com/greenstop/images/8552515751438644_2.jpg", 
+      "description": "Third Edition by Mostafa Hashem", 
+      "price": 46.00, 
+      "inventory": 1
+},
+  {"id": 3, 
+      "name": "E-Commerce Agents", 
+      "img": "https://appdeveloperweb.com/greenstop/images/9197907543445676_2.jpg", 
+      "description": "Marketplace Solutions", 
+      "price": 29.00, 
+      "inventory": 5
+},
+  {"_id": 4, 
+      "name": "eCommerce Accelerator", 
+      "img": "https://appdeveloperweb.com/greenstop/images/10412368723880252_2.jpg", 
+      "description": "How to sell your products in less than a hour", 
+      "price": 53.00, 
+      "inventory": 7
+},
+  {"id": "5",
+      "name": "Amazon E-Commerce",
+      "img": "https://appdeveloperweb.com/greenstop/images/10547961582846888_2.jpg",
+      "description": "The Web Developer Guide",
+      "price": 33.00, "inventory": 9
+   },
+   {"id": "6",
+      "name": "Advances in Data Mining",
+      "img": "https://appdeveloperweb.com/greenstop/images/10686354557628304_2.jpg",
+      "description": "Medicine and Knowledge Management",
+      "price": 23.00, "inventory": 3
+   },
+   {"id": "7",
+      "name": "Shopify",
+      "img": "https://appdeveloperweb.com/greenstop/images/11033926921508488_2.jpg",
+      "description": "How to build a succesfull eCommerce",
+      "price": 25.00, "inventory": 8
+   },
+   {"id": "8",
+      "name": "E-Commerce",
+      "img": "https://appdeveloperweb.com/greenstop/images/11854078013954528_2.jpg",
+      "description": "Preta com listras brancas",
+      "price": 109.00, "inventory": 5
+   },
+   {"id": "9",
+      "name": "Practical PHP 7",
+      "img": "https://appdeveloperweb.com/greenstop/images/12064273040195392_2.jpg",
+      "description": "MySQL 8 and MariaDB",
+      "price": 76.00, "inventory": 7
+   },
+   {"id": "10",
+      "name": "Digital Business and eCommerce",
+      "img": "https://appdeveloperweb.com/greenstop/images/18644119330491310_2.jpg",
+      "description": "Unbranded",
+      "price": 86.00, "inventory": 1
+   },
+   {"id": "11",
+      "name": "Square in a Square",
+      "img": "https://appdeveloperweb.com/greenstop/images/39876704341265610_2.jpg",
+      "description": "Quick and Easy Quilts",
+      "price": 76.00, "inventory": 2
+   },
+   {"id": "12",
+      "name": "Agile Software Development with JIRA",
+      "img": "https://appdeveloperweb.com/greenstop/images/51498472915966370_2.jpg",
+      "description": "Hands-On Development",
+      "price": 23.00, "inventory": 5
+   }
+]
+
+

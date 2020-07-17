@@ -1,0 +1,76 @@
+p.shine
+{
+    font-size: 2em;
+    margin: 0 auto;
+    width: 700px;
+}
+.shine
+{
+    background: #f2f5f2 -webkit-gradient(linear, left top, right top, from(#f2f5f2), to(#f2f5f2), color-stop(0.5, #000)) 0 0 no-repeat;
+    -webkit-background-size: 70px;
+    color: rgba(255, 255, 255, 0.4);
+    -webkit-background-clip: text;
+    -webkit-animation-name: shine;
+    -webkit-animation-duration: 3s;
+    -webkit-animation-iteration-count: infinite;
+    font-weight: 500;
+    font-size: 1.5em;
+    font-family: nunito sans,Arial,sans-serif;
+}
+
+@-webkit-keyframes shine
+{
+    0%
+    {
+        background-position: top left;
+    }
+    100%
+    {
+        background-position: top right;
+    }
+}
+
+nav-martin {
+    margin: 0 auto;
+    padding:0;
+    min-width:52em;
+    width:95&#37;;
+    height:24px;
+    overflow:hidden;
+    background:#039;
+    text-align:justify;
+}
+.nav-martin li {
+    display:inline;
+    list-style:none;
+}
+.nav-martin li.last {
+    margin-right:100%;
+}
+.nav-martin li a {
+    display:inline-block;
+    padding:5px 15px 0;
+    height:31px;
+    color:#fff;
+    vertical-align:middle;
+    text-decoration:none;
+    text-transform:capitalize;
+}
+.nav-martin li a:hover {
+    color: #007bff;  
+}
+.searchInputColor {
+  color: white;
+  text-transform: capitalize;
+  border-radius: 5px;
+  height: 25px;
+  width: 110px;
+}
+.searchBottonColor {
+  color: white;
+  text-transform: capitalize;
+  border: 1px solid #007bff;
+  height: 40px;
+  width: 115px;
+}
+
